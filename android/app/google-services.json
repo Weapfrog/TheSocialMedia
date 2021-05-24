@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254906344067",
+    "project_id": "thesocialmedia-44cb9",
+    "storage_bucket": "thesocialmedia-44cb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254906344067:android:0e800ca10b3ec68bfc71b6",
+        "android_client_info": {
+          "package_name": "com.berkeozturk.the_social_media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254906344067-s39s93fv5nu09kn3t0en5j9uhp4dqbhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH5YzDobFvn5JcNrG3QM3PTCg3Pwh-roc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254906344067-s39s93fv5nu09kn3t0en5j9uhp4dqbhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
